@@ -1,3 +1,9 @@
+<p align="center">
+  <img width="150" height="100" src="/Images/icon.ico">
+</p>
+
+
+
 # LANScan
 
 LANScan is a tool for detecting one/all devices on a network, without having to bother with extra information you would get from something like Nmap. Some of its features include accurate vendor lookup of the device/'s, fast processing, and an easy to read output.
