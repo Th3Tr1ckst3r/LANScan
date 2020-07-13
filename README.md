@@ -8,7 +8,7 @@ I was attempting to check my local area network for a possible intrusion. While 
 
 # Walkthrough
 
-![Screenshot](screenshot.png)
+![Demo](/Images/Demo.gif)
 
 # Installation
 
